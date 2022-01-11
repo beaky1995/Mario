@@ -1,0 +1,109 @@
+﻿<XnaContent>
+  <Asset Type="MyDataTypes.LevelObjectData[]">
+    <GameObject>
+      <ObjectType>Player</ObjectType>
+      <ObjectName>Mario</ObjectName>
+      <Location>10 14</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>16 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>18 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Item</ObjectType>
+      <ObjectName>FireFlower</ObjectName>
+      <Location>2 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Item</ObjectType>
+      <ObjectName>Coin</ObjectName>
+      <Location>4 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Item</ObjectType>
+      <ObjectName>RedMushroom</ObjectName>
+      <Location>6 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Item</ObjectType>
+      <ObjectName>GreenMushroom</ObjectName>
+      <Location>8 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Item</ObjectType>
+      <ObjectName>Star</ObjectName>
+      <Location>10 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Pipe</ObjectType>
+      <ObjectName>Pipe</ObjectName>
+      <Location>16 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <Location>2 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>4 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HiddenBlock</ObjectName>
+      <Location>6 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>8 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>10 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FloorBlock</ObjectName>
+      <Location>12 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>BigMountain</ObjectName>
+      <Location>1 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SmallMountain</ObjectName>
+      <Location>3 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleBush</ObjectName>
+      <Location>5 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleBush</ObjectName>
+      <Location>7 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>9 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleCloud</ObjectName>
+      <Location>11 12</Location>
+    </GameObject>
+  </Asset>
+</XnaContent>

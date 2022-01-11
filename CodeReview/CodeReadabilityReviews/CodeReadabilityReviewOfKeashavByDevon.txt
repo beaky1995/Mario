@@ -1,0 +1,16 @@
+﻿Author of the code review: Devon Vanstone
+Date of the code review: 7/26/2018
+Sprint number: Sprint 6
+Name of the .cs file being reviewed: LevelLoader.cs
+Author of the .cs file being reviewed: Keashav Nair
+Number of minutes taken to complete the review: ~15 minutes
+
+= The level loader for level 1-4 is even more complex than the level loader for 1-1, so it's a bit of a chore to look
+  at, but this is largly unavoidable and is rectified by being familiar with the code and its purpose.
+
+= For both the LevelLoader and LevelLoaderOneOne (for level 1-1, as the name implies), the use of holes as a flag for 
+  when to start and stop putting ceiling and floor blocks is nice, but a tad hard to wrap the mind around when reading
+  for the first time.
+
+= It may not be the case, but it looks to me there are a few methods unused (can be cleaned up), but overall it's not
+  the worst I've seen.

@@ -1,0 +1,15 @@
+﻿Author of the code review: Graham Reese
+Date of the code review: 7/26/2018
+Sprint number: Sprint 6
+Name of the .cs file being reviewed: HUD.cs
+Author of the .cs file being reviewed: Yumeng Wei
+Number of minutes taken to complete the review: ~20 minutes
+
+
+All usings are not necessary and every single one can be deleted.
+Code is highly cohesive and all methods perform tasks that are related to camera functions.
+
+Coupling can be a bit high at times but this is needed in order to perform the functions of the methods called.
+
+Each method name is descriptive and lets the user know what is being done within the method.
+Some names are similar to others at times so it might be good to be a little more descriptive.

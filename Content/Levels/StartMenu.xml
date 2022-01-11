@@ -1,0 +1,14 @@
+﻿<XnaContent>
+  <Asset Type="MyDataTypes.LevelObjectData[]">
+    <GameObject>
+      <ObjectType>Menu</ObjectType>
+      <ObjectName>Start</ObjectName>
+      <Location>0 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Player</ObjectType>
+      <ObjectName>Mario</ObjectName>
+      <Location>10 14</Location>
+    </GameObject>
+  </Asset>
+</XnaContent>

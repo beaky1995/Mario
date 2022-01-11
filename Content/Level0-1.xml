@@ -1,0 +1,74 @@
+﻿<XnaContent>
+  <Asset Type="MyDataTypes.LevelObjectData[]">
+    <GameObject>
+      <ObjectType>Player</ObjectType>
+      <ObjectName>Mario</ObjectName>
+      <Location>350 250</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>600 150</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>650 150</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Item</ObjectType>
+      <ObjectName>FireFlower</ObjectName>
+      <Location>100 100</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Item</ObjectType>
+      <ObjectName>Coin</ObjectName>
+      <Location>200 100</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Item</ObjectType>
+      <ObjectName>RedMushroom</ObjectName>
+      <Location>300 100</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Item</ObjectType>
+      <ObjectName>GreenMushroom</ObjectName>
+      <Location>400 100</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Item</ObjectType>
+      <ObjectName>Star</ObjectName>
+      <Location>500 100</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Pipe</ObjectType>
+      <ObjectName>Pipe</ObjectName>
+      <Location>650 200</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <Location>350 200</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>150 200</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HiddenBlock</ObjectName>
+      <Location>250 200</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>450 200</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FloorBlock</ObjectName>
+      <Location>550 200</Location>
+    </GameObject>
+  </Asset>
+</XnaContent>

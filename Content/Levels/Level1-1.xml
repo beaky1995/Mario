@@ -1,0 +1,1582 @@
+<XnaContent>
+  <Asset Type="MyDataTypes.LevelObjectData[]">
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>14 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>16 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Pipe</ObjectType>
+      <ObjectName>Pipe</ObjectName>
+      <Location>14 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>star</ContainsItem>
+      <Location>2 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Castle</ObjectName>
+      <Location>11 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>14 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>red</ContainsItem>
+      <Location>18 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>4 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HiddenBlock</ObjectName>
+      <ContainsItem>green</ContainsItem>
+      <Location>6 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>8 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>10 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FloorBlock</ObjectName>
+      <Location>12 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>BigMountain</ObjectName>
+      <Location>0 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>8 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleBush</ObjectName>
+      <Location>11 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SmallMountain</ObjectName>
+      <Location>16 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>19 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleBush</ObjectName>
+      <Location>23 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleCloud</ObjectName>
+      <Location>27 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>36 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleBush</ObjectName>
+      <Location>42 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>BigMountain</ObjectName>
+      <Location>48 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>56 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleBush</ObjectName>
+      <Location>59 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SmallMountain</ObjectName>
+      <Location>64 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>67 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleBush</ObjectName>
+      <Location>71 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleCloud</ObjectName>
+      <Location>75 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>84 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleBush</ObjectName>
+      <Location>90 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>BigMountain</ObjectName>
+      <Location>96 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>104 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleBush</ObjectName>
+      <Location>107 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SmallMountain</ObjectName>
+      <Location>112 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>115 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleBush</ObjectName>
+      <Location>119 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleCloud</ObjectName>
+      <Location>123 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>132 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleBush</ObjectName>
+      <Location>138 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>BigMountain</ObjectName>
+      <Location>144 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>152 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleBush</ObjectName>
+      <Location>155 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SmallMountain</ObjectName>
+      <Location>160 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>163 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleBush</ObjectName>
+      <Location>167 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleCloud</ObjectName>
+      <Location>171 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>180 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleBush</ObjectName>
+      <Location>186 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>BigMountain</ObjectName>
+      <Location>192 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>200 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleBush</ObjectName>
+      <Location>203 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SmallMountain</ObjectName>
+      <Location>208 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleCloud</ObjectName>
+      <Location>211 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>SingleBush</ObjectName>
+      <Location>215 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>TripleCloud</ObjectName>
+      <Location>219 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>16 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>20 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>red</ContainsItem>
+      <Location>21 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>22 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>22 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>22 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>23 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>24 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Pipe</ObjectType>
+      <ObjectName>Pipe</ObjectName>
+      <Location>28 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Pipe</ObjectType>
+      <ObjectName>Pipe</ObjectName>
+      <Location>38 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>40 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Pipe</ObjectType>
+      <ObjectName>Pipe</ObjectName>
+      <Location>46 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>51 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>53 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Pipe</ObjectType>
+      <ObjectName>WarpPipe</ObjectName>
+      <WarpLocation>271 0</WarpLocation>
+      <Location>57 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HiddenBlock</ObjectName>
+      <ContainsItem>green</ContainsItem>
+      <Location>64 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>69 13</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>70 13</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>77 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>red</ContainsItem>
+      <Location>78 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>79 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>80 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>80 4</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>81 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>82 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>82 4</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>83 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>84 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>85 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>86 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>87 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>86 13</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>87 13</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>88 13</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>91 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>92 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>93 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>94 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>94 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>97 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>99 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>100 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <ContainsItem>star</ContainsItem>
+      <Location>101 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>106 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>107 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>red</ContainsItem>
+      <Location>109 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>109 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>111 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>113 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>112 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>118 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>121 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>122 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>123 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>124 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>126 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>128 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>129 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>129 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>129 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>130 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>130 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>131 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>131 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>134 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>135 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>135 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>136 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>136 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>136 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>137 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>137 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>137 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>137 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>140 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>140 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>140 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>140 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>141 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>141 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>141 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>142 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>142 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>143 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>148 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>149 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>149 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>150 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>150 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>150 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>151 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>151 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>151 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>151 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>152 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>152 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>152 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>152 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>153 13</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>154 13</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>155 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>155 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>155 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>155 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>156 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>156 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>156 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>157 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>157 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>158 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Pipe</ObjectType>
+      <ObjectName>Pipe</ObjectName>
+      <Location>163 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>168 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>169 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>170 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>171 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>174 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>176 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Pipe</ObjectType>
+      <ObjectName>Pipe</ObjectName>
+      <Location>179 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>181 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>182 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>182 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>183 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>183 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>183 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>184 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>184 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>184 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>184 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>185 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>185 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>185 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>185 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>185 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>186 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>186 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>186 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>186 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>186 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>186 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>187 6</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>187 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>187 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>187 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>187 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>187 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>187 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>188 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>188 6</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>188 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>188 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>188 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>188 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>188 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>188 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>189 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>189 6</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>189 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>189 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>189 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>189 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>189 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>189 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>198 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Objective</ObjectType>
+      <ObjectName>Flagpole</ObjectName>
+      <Location>198 3</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 1</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 4</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 6</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>269 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 1</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 4</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 6</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>270 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>274 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>275 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>276 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>277 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>278 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>279 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>280 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>281 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>282 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>283 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FalseBrickBlock</ObjectName>
+      <Location>284 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>275 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>276 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>277 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>278 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>coin</ContainsItem>
+      <Location>279 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>274 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>275 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>276 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>277 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>278 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>279 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>280 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>274 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>275 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>276 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>277 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>278 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>279 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>280 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>274 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>275 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>276 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>277 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>278 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>279 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>280 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Pipe</ObjectType>
+      <ObjectName>WarpPipe</ObjectName>
+      <WarpLocation>164 10</WarpLocation>
+      <Location>282 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 1</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 4</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 6</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>285 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 0</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 1</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 2</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 3</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 4</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 5</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 6</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 7</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 9</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 10</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 11</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BrickBlock</ObjectName>
+      <Location>286 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Castle</ObjectName>
+      <Location>205 8</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>Player</ObjectType>
+      <ObjectName>Mario</ObjectName>
+      <Location>3 12</Location>
+    </GameObject>
+    
+  </Asset>
+</XnaContent>

@@ -1,0 +1,12 @@
+﻿Author of the code review: Keashav Nair
+Date of the code review: 7/26/2018
+Sprint number: Sprint 6
+Name of the .cs file being reviewed: Bowser.cs
+Author of the .cs file being reviewed: Graham
+Number of minutes taken to complete the review: ~10 minutes
+
+
+The Bowser class does very well in terms of cyclomatic complexity. The logic is nicely segregated which makes for clear and concise code.
+One downside is that the class is over 100 lines of code but that is expected from a Boss character like Bowser.
+rand.Next(3) could probably be rand.Next(BowserUtil.RandomMoves)
+Overall, the Bowser class is very readable. 

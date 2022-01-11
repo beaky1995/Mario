@@ -1,0 +1,1 @@
+﻿If mario jumps between two blocks, both of them get activated.

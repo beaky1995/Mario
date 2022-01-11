@@ -1,0 +1,10 @@
+﻿Author of the code review: Skyler Vogt
+Date of the code review: 07/26/18
+Sprint number: 6
+Name of the .cs file being reviewed: LavaBlock.cs
+Author of the .cs file being reviewed: Devon Vanstone
+Number of minutes taken to complete the review: 10 minutes
+
+The code is generally readable.  The variables are aptly named and the code's tasks are clearly defined, and
+there are not too many tasks per method.  The property set methods are of a different form than the get
+methods, which is loosely confusing, but not a real issue.

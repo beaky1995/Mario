@@ -1,0 +1,673 @@
+<XnaContent>
+  <Asset Type="MyDataTypes.LevelObjectData[]">
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>12 7</Location>
+    </GameObject>
+    
+    <GameObject>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>13 7</Location>
+    </GameObject>
+    
+    
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>red</ContainsItem>
+      <Location>2 6</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>UnbreakableBlock</ObjectName>
+      <Location>12 8</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Obstacle</ObjectType>
+      <ObjectName>FireBar</ObjectName>
+      <Location>12 8</Location>
+    </GameObject>
+
+ 
+   
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>red</ContainsItem>
+      <Location>4 6</Location>
+    </GameObject>
+    
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>red</ContainsItem>
+      <Location>45 7</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>QuestionBlock</ObjectName>
+      <ContainsItem>red</ContainsItem>
+      <Location>49 7</Location>
+    </GameObject>
+    
+    
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>13 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>14 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>25 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>26 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>27 12</Location>
+    </GameObject>
+
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>31 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>32 12</Location>
+    </GameObject>
+    
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>33 12</Location>
+    </GameObject>
+
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>101 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>102 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>103 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>104 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>105 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>106 12</Location>
+    </GameObject>
+
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>107 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>108 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>109 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>110 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>111 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>112 12</Location>
+    </GameObject>
+
+    
+    
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>117 12</Location>
+    </GameObject>
+
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>118 12</Location>
+    </GameObject>
+
+
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>119 12</Location>
+    </GameObject>
+
+
+
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>125 12</Location>
+    </GameObject>
+
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>126 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>127 12</Location>
+    </GameObject>
+
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>128 12</Location>
+    </GameObject>
+
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>129 12</Location>
+    </GameObject>
+
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>130 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>131 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>132 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>133 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>134 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>135 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>136 12</Location>
+    </GameObject>
+
+
+    <GameObject>
+      <ObjectType>Hole</ObjectType>
+      <Location>137 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>23 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>24 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>25 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>26 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>27 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>28 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>29 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>30 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>31 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>32 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>33 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>34 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>35 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>68 12</Location>
+    </GameObject>
+    
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>69 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>70 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>71 12</Location>
+    </GameObject>
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>72 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>73 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>74 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>75 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>76 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>77 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>78 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>79 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>80 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>81 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>82 12</Location>
+    </GameObject>
+    
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>83 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>84 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>85 12</Location>
+    </GameObject>
+    
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>86 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>87 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>88 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>89 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>90 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>91 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>92 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>93 12</Location>
+    </GameObject>
+
+    
+
+    
+    
+    
+    
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>101 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>102 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>103 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>104 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>105 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>106 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>107 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>108 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>109 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>110 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>111 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>112 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>113 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>114 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>115 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>116 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>117 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>118 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>119 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>125 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>126 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>127 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>128 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>129 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>130 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>131 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>132 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>133 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>134 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>135 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>136 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>137 12</Location>
+    </GameObject>
+    
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>138 12</Location>
+    </GameObject>
+    
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>141 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>142 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>143 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>144 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>145 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>146 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>147 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>148 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>149 12</Location>
+    </GameObject>
+
+    <GameObject>
+      <ObjectType>CeilingHole</ObjectType>
+      <Location>150 12</Location>
+    </GameObject>
+    
+    <GameObject>
+      <ObjectType>Player</ObjectType>
+      <ObjectName>Mario</ObjectName>
+      <Location>3 5</Location>
+    </GameObject>
+  </Asset>
+</XnaContent>
